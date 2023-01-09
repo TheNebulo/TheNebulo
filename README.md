@@ -1,6 +1,6 @@
 # TheNebulo | Amir
 
-Student and Part-Time Full-Stack Dev
+Student and Part-Time Full-Stack Dev.
 Experience with Python, Java, C++ and C#
 
 ## Contact Me
