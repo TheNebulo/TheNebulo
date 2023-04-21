@@ -1,7 +1,8 @@
 # Amir | TheNebulo
 
-Student and Part-Time Full-Stack Dev.
-> Experience with Python, Java, and C#. 
+Student learning software engineering
+> Experience with Python, Java, and C#.
+> Also profiecient in HTML, CSS, and Vanilla JS
 
 ## Contact Me
 
