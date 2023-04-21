@@ -9,4 +9,3 @@ Student learning software engineering
 Contact Info
 - Discord: Nebulo#1075
 - Email: amir.djaffar@outlook.com
-- Please annoy [@DM-TUNGSTEN](https://github.com/dm-tungsten)
