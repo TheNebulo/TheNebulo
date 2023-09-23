@@ -7,5 +7,5 @@ Student learning software engineering
 ## Contact Me
 
 Contact Info
-- Discord: Nebulo#1075
+- Discord: thenebulo
 - Email: amir.djaffar@outlook.com
