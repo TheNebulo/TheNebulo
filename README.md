@@ -16,9 +16,9 @@ I'm strong in the following languages (or try to be) :
 
 Project 📦 | Description 📄 | Release Date 📆
 --- | --- | --- 
-[Nether Golem](https://github.com/TheNebulo/nether-golem) | Abandoned fabric Minecraft mod meant to add a new boss fight. | January 2023
+[Nether Golem](https://github.com/TheNebulo/NetherGolem) | Abandoned fabric Minecraft mod meant to add a new boss fight. | January 2023
 [Turtle Model Viewer](https://github.com/TheNebulo/TurtleModelViewer) | A python script that visualises 3D modles (obj files) in the turtle graphics window. | January 2023
-[Facial Recognition](https://github.com/TheNebulo/Facial-Recognition) | A simple Python script that remembers and recognises people through a camera input. | February 2023 
+[Facial Recognition](https://github.com/TheNebulo/FacialRecognition) | A simple Python script that remembers and recognises people through a camera input. | February 2023 
 [Math Quiz App](https://github.com/TheNebulo/MathQuiz) | School project for an app that quizzes primary students with simple math questions and keeps scores. Python GUI and CLI. | April 2023
 [Register Reader](https://github.com/TheNebulo/RegisterReader) | Another school project that keeps a searchable register of students. Python CLI. | May 2023
 [Tim's Diner](https://github.com/TheNebulo/TimsDiner) | A restaurant managing CLI program for a school project. Also written in Python. | June 2023
