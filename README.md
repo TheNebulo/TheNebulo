@@ -4,13 +4,18 @@
 
 ### About Me 👨‍💻
 
-Hiya, I'm Amir. I'm a student learning software engineering by working on all sorts of projects, large and small.
+Hiya, I'm Amir. I'm a student learning computer and software engineering by working on all sorts of projects, large and small.
 
-I'm strong in the following languages (or try to be) :
+I'm strong in the following languages and frameworks (or try to be) :
 - Python 🐍
 - Java ☕
 - HTML/CSS/JS 🌐
 - C# 🪟
+- Flask 🌶️
+- Electron ⚛️
+- Unity 🧊
+
+You can find code snippets and demo projects of mine in my [CodeLib](https://github.com/TheNebulo/CodeLib).
 
 ### Projects (Past and Future) 🛠️
 
@@ -26,7 +31,8 @@ Project 📦 | Description 📄 | Release Date 📆
 [Asciify (Web App)](https://github.com/TheNebulo/AsciifyWeb) | A video uploding and viewing platform for the Asciify module with account management. | September 2023
 [Turtle3D](https://github.com/TheNebulo/Turtle3D) | 3D engine in Turtle, accessed via Python module/library, with vast quantities of rendering features and management. | February 2024
 [ImagineSuite](https://github.com/TheNebulo/ImagineSuite) | CLI based application providing all-in-one AI image generation from several services/models. | March 2024
-[Scholarly Digital](https://github.com/ScholarlyDigital) | My own startup with a suite of digital products aimed to launch to improve the education system. | TBD
+[PokerPy](https://github.com/TheNebulo/PokerPy) | An ecosystem of python scripts to easily script complex bots that compete against each other in poker. | TBD
+ForgeKit | An open-source set of applications to make distributing and updating games to developers and playtesters as cheap and easy as possible. | TBD
 
 ### Contact Me 📨
 
@@ -34,5 +40,5 @@ You can find on any of the following platforms:
 
 - Discord: thenebulo
 - LinkedIn: [amir-djaffar](https://www.linkedin.com/in/amir-djaffar/)
-- Scholarly Inquiries: [amir.djaffar@scholarly.digital](mailto:amir.djaffar@scholarly.digital)
-- Personal Inquiries: [amir.djaffar@outlook.com](mailto:amir.djaffar@outlook.com)
+- Personal Inquiries: [thenebulo@outlook.com](mailto:thenebulo@outlook.com)
+- Professional Inquiries: [amir.djaffar@outlook.com](mailto:amir.djaffar@outlook.com)
