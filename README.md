@@ -40,5 +40,5 @@ You can find on any of the following platforms:
 
 - Discord: thenebulo
 - LinkedIn: [amir-djaffar](https://www.linkedin.com/in/amir-djaffar/)
-- Personal Inquiries: [thenebulo@outlook.com](mailto:thenebulo@outlook.com)
+- Personal Inquiries: [nebulo.dev@proton.me](mailto:nebulo.dev@proton.me)
 - Professional Inquiries: [amir.djaffar@outlook.com](mailto:amir.djaffar@outlook.com)
